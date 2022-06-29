@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5b8c6a1995916dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "b281d9ca063cc73b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ece6c82c29c46dbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e0eea46a3767ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "077731b358f42240",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "033fc0e802fbcbe3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "096687a7d5410f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "4833c21533cd5ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a7a97da09b09bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b281d9ca063cc73b",
+  "lastOpenFiles": [
+    "index.md",
+    "Footer/Contact.md",
+    "Header/Teams.md",
+    "Header/Teamarzt.md",
+    "Header/Supporters.md",
+    "Header/Coaches.md",
+    "Header/Cheerleading.md",
+    "Header/About us.md",
+    "Header/Membership.md",
+    "Header/Trainings.md"
+  ]
+}
